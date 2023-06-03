@@ -9,6 +9,6 @@ public static void main(String[] args) {
      int b=sc.nextInt();
       sum=a+b;   
     	System.out.println(sum);	
-      
+      // ok done check by Nikhil
 	}
 }
